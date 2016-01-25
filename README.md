@@ -7,9 +7,35 @@ Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer g
 Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirschen fuer die Ferrero Winterkollektion aussucht sammeln wir hier in einer Gemeinschaftsaktion ein paar Einkaufstips wie ihr einerseits die Qualitaet maximieren koennt und andererseits "konfliktfrei" anbaut. 
 
 
-# Einkaufsliste
+## Einkaufsliste Inhaltsverzeichnis
 
-## TOC
+- [Anzucht](#substrat)
+	- [Gewaechshaus](#gewaechshaus)
+	- [Quelltabs](#quelltabs)
+- [Wachstum]
+	- [Wachstum Erde](#wachstum-erde)
+	- [Wachstum Kokos](#wachstum-kokos)
+- [Duenger](#duenger)
+	- [Erde](#duenger-erde)
+	- [Kokos](#duenger-kokos)
+	- [Hydro](#duenger-hydro)
+
+
+## Substrate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 You can also include inline Markdown such as links, bold, italics, or strikethrough:
