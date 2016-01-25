@@ -16,6 +16,7 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 	- [Kokos](#kokos)
 	- [Hydro](#hydro)
 - [Table Template](#table-template)
+- [Ernte](#ernte)
 
 ## Anzucht
 
@@ -27,7 +28,7 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 ||[OBI]||
 | Quelltabs (Jiffys) | [Bauhaus]() ||
 ||[Dehner] (http://www.dehner.de/search/?ms=true&q=Quelltabs) | Tork und Kokos |
-||[Hornbach](https://www.hornbach.de/shop/Kokos-Quelltabs-50-Stk/5643238/artikel.html) |Kokos 50 Stk, 6,49 Euro|
+||Hornbach[1](https://www.hornbach.de/shop/Kokos-Quelltabs-50-Stk/5643238/artikel.html) [2](https://www.hornbach.de/shop/suche/sortiment/quelltopf) |Kokos 50 Stk, 6,49 Euro|
 ||[OBI]()||
 | Anzuchttoepfe (Kokos und Plastik) | [Bauhaus](https://www.bauhaus.info/suche/produkte?q=Anzuchttopf) ||
 ||[Dehner] (http://www.dehner.de/search/?ms=true&q=Anzuchttopf) ||
@@ -35,41 +36,51 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 ||[OBI]()||
 
 ## Wachstum
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Kokos-Erde
+| [Bauhaus](https://www.bauhaus.info/blumenerde/neudorff-blumenerde-kokohum-/p/16980258?continueUrl=/suche/produkte?q%3Dkoko%2Berde) ||
+||[Dehner] (http://www.dehner.de/pflanzen-pflege-erde/Neudorff-Kokohum-Blumenerde-140814/?ac=N15165300) ||
+||[Hornbach](https://www.hornbach.de/shop/Blumenerde-Neudorff-Kokohum-7-Liter/1723893/artikel.html)| |
+||[IKEA](http://www.ikea.com/de/de/catalog/products/90231416)||
+
+| Erde | [Bauhaus](https://www.bauhaus.info/suche/produkte?q=erde) |Gesamtliste - selektion der besten erforderlich |
+||[Dehner] (http://www.dehner.de/search/?ms=true&q=erde) ||
+||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/Erde)| Gesamtliste - selektion der besten erforderlich |
+
+| Blaehton |[IKEA](http://www.ikea.com/de/de/catalog/products/60287103/)| |
+
 
 ## Bluete
 ### Erde
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Duenger       |       fill me!          |             |
 ### Kokos
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Duenger       |       fill me!          |             |
 ### Hydro
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Duenger       |       fill me!          |             |
+
+
+## Ernte
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Einmachglaeser (fuer Kirsch-Marmelade) | [IKEA](http://www.ikea.com/de/de/catalog/categories/series/24046/) ||
+|| add more links! ||
+|| add more links! ||
+|| add more links! ||
 
 
 ## Table Template
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
-| Produkt-Name
-| [Bauhaus]() ||
+| Produkt-Name | [Bauhaus]() ||
 ||[Dehner] () ||
 ||[Hornbach]()||
 ||[OBI]()||
 
 
-
-
-
-
-
-You can also include inline Markdown such as links, bold, italics, or strikethrough:
-
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | ~~Display the~~ help window.|
-| Close     | _Closes_ a window     |
-
-Finally, by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-
-A colon on the left-most side indicates a left-aligned column; a colon on the right-most side indicates a right-aligned column; a colon on both sides indicates a center-aligned column.
