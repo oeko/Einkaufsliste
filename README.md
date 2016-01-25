@@ -1,7 +1,6 @@
 # Piemont-Kirschen
 
 Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer geliebten Mon Chéri, da die starken transportbedingten Temperaturschwankungen in der warmen Jahreszeit und mögliche hohe Temperaturen in den Verkaufsstellen der Qualität des Produktes abträglich sind.
-
 <img src="http://lexikon.huettenhilfe.de/uploads/pics/Kirschensuess2.jpg">
 
 ## Besuch von der Qualitätsprüferin
