@@ -1,4 +1,13 @@
-# Einkaufsliste
+# Mon Chéri
+
+Wie wir alle wissen stellt Ferrero waehrend des Sommers unsere geliebten Mon Chéri nicht her, da die starken transportbedingten Temperaturschwankungen in der warmen Jahreszeit und mögliche hohe Temperaturen in den Verkaufsstellen der Qualität des Produktes abträglich sind.
+
+## Piemont-Kirschen auch in der Sommerpause
+
+> Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirschen fuer die Ferrero Winterkollektion aussucht sammeln wir hier in einer Gemeinschaftsaktion ein paar Einkaufstips wie ihr einerseits die Qualitaet maximieren koennt und andererseits "konfliktfrei" anbaut. 
+
+
+## Einkaufsliste
 
 http://www.tablesgenerator.com/markdown_tables
 
