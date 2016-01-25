@@ -10,18 +10,23 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 ## Einkaufsliste Inhaltsverzeichnis
 
 - [Anzucht](#substrat)
-	- [Gewaechshaus](#gewaechshaus)
-	- [Quelltabs](#quelltabs)
-- [Wachstum]
-	- [Wachstum Erde](#wachstum-erde)
-	- [Wachstum Kokos](#wachstum-kokos)
-- [Duenger](#duenger)
+- [Wachstum](#wachstum)
+- [Bluete]
 	- [Erde](#duenger-erde)
 	- [Kokos](#duenger-kokos)
 	- [Hydro](#duenger-hydro)
 
 
-## Substrate
+## Anzucht
+
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Mini-Gewaechshaus      | 
+*[Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) 
+*[OBI]() [Hornbach](https://www.hornbach.de/shop/suche/sortiment/treibhaus) *[Dehner](http://www.dehner.de/search/?ms=true&q=mini+gewaechs)| Firma Romberg |
+
+| Quelltabs (Jiffy)     | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
 
