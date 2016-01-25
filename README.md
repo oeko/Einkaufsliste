@@ -19,9 +19,8 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 	- [Erde](#erde)
 	- [Kokos](#kokos)
 	- [Hydro](#hydro)
-- [Table Template](#table-template)
 - [Ernte](#ernte)
-
+- [Saisonal verfuegbar](#saisonal)
 
 
 
@@ -95,6 +94,19 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 
 
 
+## Saisonal
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Erde | ALDI ||
+|| LIDL ||
+|| Penny ||
+| Duenger | ALDI ||
+|| LIDL ||
+|| Penny ||
+| Kalk | ALDI ||
+|| LIDL ||
+|| Penny ||
+
 
 
 ## Table Template
@@ -103,6 +115,7 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 | Produkt-Name | [Bauhaus]() ||
 ||[Dehner] () ||
 ||[Hornbach]()||
+||[IKEA]()||
 ||[OBI]()||
 
 
