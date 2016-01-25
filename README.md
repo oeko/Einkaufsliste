@@ -16,6 +16,7 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 - [Anzucht](#anzucht)
 - [Wachstum](#wachstum)
 - Bluete
+ 	- [Tekus](#tekus)
 	- [Erde](#erde)
 	- [Kokos](#kokos)
 	- [Hydro](#hydro)
@@ -51,6 +52,9 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 ## Wachstum
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
+| Toepfe | Bauhaus add link! ||
+|| Dehner add link! ||
+|| Hornbach add link! ||
 | Kokos-Erde | [Bauhaus](https://www.bauhaus.info/blumenerde/neudorff-blumenerde-kokohum-/p/16980258?continueUrl=/suche/produkte?q%3Dkoko%2Berde) ||
 ||[Dehner] (http://www.dehner.de/pflanzen-pflege-erde/Neudorff-Kokohum-Blumenerde-140814/?ac=N15165300) ||
 ||[Hornbach](https://www.hornbach.de/shop/Blumenerde-Neudorff-Kokohum-7-Liter/1723893/artikel.html)| |
@@ -64,6 +68,13 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 
 
 ## Bluete
+
+### Tekus
+| Produkt       | Bezugsquellen   | Anmerkungen |
+| :------------ |:---------------:| :-----|
+| Vierkanttoepfe       |       fill me!          |             |
+| Rundtoepfe       |       fill me!          |             |
+| Balkonkaesten       |       fill me!          |             |
 
 ### Erde
 | Produkt       | Bezugsquellen   | Anmerkungen |
