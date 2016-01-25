@@ -9,7 +9,7 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 
 ## Inhaltsverzeichnis Einkaufsliste
 
-- [Anzucht](#substrat)
+- [Anzucht](#anzucht)
 - [Wachstum](#wachstum)
 - [Bluete]
 	- [Erde](#duenger-erde)
@@ -21,16 +21,21 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
-| Mini-Gewaechshaus      | *[Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) ||
-|| *[OBI]() [Hornbach](https://www.hornbach.de/shop/suche/sortiment/treibhaus)||
-||*[Dehner](http://www.dehner.de/search/?ms=true&q=mini+gewaechs)||
+| Mini-Gewaechshaus      
+| [Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) ||
+||Dehner [1](http://www.dehner.de/search/?ms=true&q=mini+gewaechs) [2](http://www.dehner.de/pflanzen-pflege-aussaat-anzucht/Dehner-Mini-Treibhaus-Eleanor-26-x-11-x-7-cm-1909399/)||
+||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/treibhaus)||
+||[OBI](offline)||
 
 | Quelltabs (Jiffy)     | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
+## Wachstum
 
-
-
+## Bluete
+### Erde
+### Kokos
+### Hydro
 
 
 
