@@ -54,8 +54,7 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 | Kokos-Erde | [Bauhaus](https://www.bauhaus.info/blumenerde/neudorff-blumenerde-kokohum-/p/16980258?continueUrl=/suche/produkte?q%3Dkoko%2Berde) ||
 ||[Dehner] (http://www.dehner.de/pflanzen-pflege-erde/Neudorff-Kokohum-Blumenerde-140814/?ac=N15165300) ||
 ||[Hornbach](https://www.hornbach.de/shop/Blumenerde-Neudorff-Kokohum-7-Liter/1723893/artikel.html)| |
-||[IKEA](http://www.ikea.com/de/de/catalog/products/90231416)| Oekotest 03/2015 Bedenkliche und/oder umstrittene
-Inhaltsstoffe "sehr gut", Gesamtergebnis "ausreichend" wegen schlechter Duengung |
+||[IKEA](http://www.ikea.com/de/de/catalog/products/90231416)| Oekotest 03/2015 Bedenkliche und/oder umstrittene Inhaltsstoffe "sehr gut", Gesamtergebnis "ausreichend" wegen schlechter Duengung |
 | Erde | [Bauhaus](https://www.bauhaus.info/suche/produkte?q=erde) |Gesamtliste - selektion der besten erforderlich |
 ||[Dehner] (http://www.dehner.de/search/?ms=true&q=erde) |Gesamtliste - selektion der besten erforderlich |
 ||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/Erde)| Gesamtliste - selektion der besten erforderlich |
