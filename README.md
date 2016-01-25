@@ -2,9 +2,13 @@
 
 Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer geliebten Mon Chéri, da die starken transportbedingten Temperaturschwankungen in der warmen Jahreszeit und mögliche hohe Temperaturen in den Verkaufsstellen der Qualität des Produktes abträglich sind.
 
+<img src="http://lexikon.huettenhilfe.de/uploads/pics/Kirschensuess2.jpg">
+
 ## Besuch von der Qualitätsprüferin
 
-Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirschen fuer die Ferrero Winterkollektion aussucht sammeln wir hier in einer Gemeinschaftsaktion ein paar Einkaufstips wie ihr einerseits die Qualitaet maximieren koennt und andererseits "konfliktfrei" anbaut. 
+Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirschen fuer die Ferrero Winterkollektion aussucht sammeln wir hier in einer Gemeinschaftsaktion ein paar Einkaufstips wie ihr einerseits die Qualitaet maximieren koennt und andererseits "konfliktfrei" anbaut.
+
+> Die Idee ist 2-3 der guenstigsten bzw. optimalsten Produkte jeder Kategorie (Erde, Duenger, etc.) fuer jede Lebensphase der Piemont-Kirsche zu selektieren und in die Tabelle einzutragen. So braucht man bei der Anzucht eine andere Erde und Duenger als beim Wachstum oder der rosa-weissen Bluete
 
 
 ## Inhaltsverzeichnis Einkaufsliste
