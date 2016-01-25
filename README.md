@@ -1,7 +1,8 @@
 # Piemont-Kirschen
 
 Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer geliebten Mon Chéri, da die starken transportbedingten Temperaturschwankungen in der warmen Jahreszeit und mögliche hohe Temperaturen in den Verkaufsstellen der Qualität des Produktes abträglich sind.
-<img src="http://lexikon.huettenhilfe.de/uploads/pics/Kirschensuess2.jpg" width='50px'>
+
+<img src="http://lexikon.huettenhilfe.de/uploads/pics/Kirschensuess2.jpg" width='300px'>
 
 ## Besuch von der Qualitätsprüferin
 
@@ -21,6 +22,13 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 - [Table Template](#table-template)
 - [Ernte](#ernte)
 
+
+
+
+
+
+
+
 ## Anzucht
 
 | Produkt       | Bezugsquellen   | Anmerkungen |
@@ -38,6 +46,9 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 ||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/anzuchttopf) ||
 ||[OBI]()||
 
+
+
+
 ## Wachstum
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
@@ -51,19 +62,26 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 | Blaehton |[IKEA](http://www.ikea.com/de/de/catalog/products/60287103/)| |
 
 
+
+
 ## Bluete
+
 ### Erde
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
 | Duenger       |       fill me!          |             |
+
 ### Kokos
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
 | Duenger       |       fill me!          |             |
+
 ### Hydro
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
 | Duenger       |       fill me!          |             |
+
+
 
 
 ## Ernte
@@ -73,6 +91,10 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 || add more links! ||
 || add more links! ||
 || add more links! ||
+
+
+
+
 
 
 ## Table Template
