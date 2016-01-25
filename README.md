@@ -2,40 +2,6 @@
 
 http://www.tablesgenerator.com/markdown_tables
 
-dog | bird | cat
-:-- | :--: | --:
-foo | foo  | foo
-bar | bar  | bar
-bazbazbaz | bazbazbaz  | bazbazbaz
-
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-Tables
-
-You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-For aesthetic purposes, you can also add extra pipes on the ends:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-Note that the dashes at the top don't need to match the length of the header text exactly:
-
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
 
 You can also include inline Markdown such as links, bold, italics, or strikethrough:
 
