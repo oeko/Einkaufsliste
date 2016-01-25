@@ -7,7 +7,7 @@ Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer g
 Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirschen fuer die Ferrero Winterkollektion aussucht sammeln wir hier in einer Gemeinschaftsaktion ein paar Einkaufstips wie ihr einerseits die Qualitaet maximieren koennt und andererseits "konfliktfrei" anbaut. 
 
 
-## Einkaufsliste Inhaltsverzeichnis
+## Inhaltsverzeichnis Einkaufsliste
 
 - [Anzucht](#substrat)
 - [Wachstum](#wachstum)
@@ -21,9 +21,9 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
-| Mini-Gewaechshaus      | 
-*[Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) 
-*[OBI]() [Hornbach](https://www.hornbach.de/shop/suche/sortiment/treibhaus) *[Dehner](http://www.dehner.de/search/?ms=true&q=mini+gewaechs)| Firma Romberg |
+| Mini-Gewaechshaus      | *[Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) ||
+|| *[OBI]() [Hornbach](https://www.hornbach.de/shop/suche/sortiment/treibhaus)||
+||*[Dehner](http://www.dehner.de/search/?ms=true&q=mini+gewaechs)||
 
 | Quelltabs (Jiffy)     | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
