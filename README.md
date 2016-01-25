@@ -1,7 +1,7 @@
 # Piemont-Kirschen
 
 Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer geliebten Mon Chéri, da die starken transportbedingten Temperaturschwankungen in der warmen Jahreszeit und mögliche hohe Temperaturen in den Verkaufsstellen der Qualität des Produktes abträglich sind.
-<img src="http://lexikon.huettenhilfe.de/uploads/pics/Kirschensuess2.jpg">
+<img src="http://lexikon.huettenhilfe.de/uploads/pics/Kirschensuess2.jpg" width='50px'>
 
 ## Besuch von der Qualitätsprüferin
 
@@ -41,16 +41,13 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 ## Wachstum
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
-| Kokos-Erde
-| [Bauhaus](https://www.bauhaus.info/blumenerde/neudorff-blumenerde-kokohum-/p/16980258?continueUrl=/suche/produkte?q%3Dkoko%2Berde) ||
+| Kokos-Erde | [Bauhaus](https://www.bauhaus.info/blumenerde/neudorff-blumenerde-kokohum-/p/16980258?continueUrl=/suche/produkte?q%3Dkoko%2Berde) ||
 ||[Dehner] (http://www.dehner.de/pflanzen-pflege-erde/Neudorff-Kokohum-Blumenerde-140814/?ac=N15165300) ||
 ||[Hornbach](https://www.hornbach.de/shop/Blumenerde-Neudorff-Kokohum-7-Liter/1723893/artikel.html)| |
 ||[IKEA](http://www.ikea.com/de/de/catalog/products/90231416)||
-
 | Erde | [Bauhaus](https://www.bauhaus.info/suche/produkte?q=erde) |Gesamtliste - selektion der besten erforderlich |
 ||[Dehner] (http://www.dehner.de/search/?ms=true&q=erde) ||
 ||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/Erde)| Gesamtliste - selektion der besten erforderlich |
-
 | Blaehton |[IKEA](http://www.ikea.com/de/de/catalog/products/60287103/)| |
 
 
