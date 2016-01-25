@@ -8,7 +8,7 @@ Wie wir alle wissen macht Ferrero eine Sommerpause bei der Herstellung unserer g
 
 Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirschen fuer die Ferrero Winterkollektion aussucht sammeln wir hier in einer Gemeinschaftsaktion ein paar Einkaufstips wie ihr einerseits die Qualitaet maximieren koennt und andererseits "konfliktfrei" anbaut.
 
-> Die Idee ist 2-3 der guenstigsten bzw. optimalsten Produkte jeder Kategorie (Erde, Duenger, etc.) fuer jede Lebensphase der Piemont-Kirsche zu selektieren und in die Tabelle einzutragen. So braucht man bei der Anzucht eine andere Erde und Duenger als beim Wachstum oder der rosa-weissen Bluete
+> Die Idee ist 2-3 der guenstigsten bzw. optimalsten Produkte jeder Kategorie (Erde, Duenger, etc.) fuer jede Lebensphase der Piemont-Kirsche zu selektieren und in die Tabelle einzutragen. So braucht man bei der Anzucht eine andere Erde und Duenger als in der Wachstumsphase und natuerlich auch um die schoene rosa-weisse Bluete der Piemont Kirsche in ihrer vollen Pracht zu erleben. 
 
 
 ## Inhaltsverzeichnis Einkaufsliste
