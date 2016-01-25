@@ -11,30 +11,25 @@ Da Claudia Bertani natuerlich nur die dicksten, prallsten und saftigsten Kirsche
 
 - [Anzucht](#anzucht)
 - [Wachstum](#wachstum)
-- [Bluete]
-	- [Erde](#duenger-erde)
-	- [Kokos](#duenger-kokos)
-	- [Hydro](#duenger-hydro)
+- Bluete
+	- [Erde](#erde)
+	- [Kokos](#kokos)
+	- [Hydro](#hydro)
 - [Table Template](#table-template)
 
 ## Anzucht
 
 | Produkt       | Bezugsquellen   | Anmerkungen |
 | :------------ |:---------------:| :-----|
-| Mini-Gewaechshaus      
-| [Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) ||
+| Mini-Gewaechshaus | [Bauhaus](https://www.bauhaus.info/suche/produkte?q=mini+gewaechshaus) ||
 ||Dehner [1](http://www.dehner.de/search/?ms=true&q=mini+gewaechs) [2](http://www.dehner.de/pflanzen-pflege-aussaat-anzucht/Dehner-Mini-Treibhaus-Eleanor-26-x-11-x-7-cm-1909399/)||
 ||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/treibhaus)||
 ||[OBI]||
-
-| Quelltabs (Jiffys) 
-| [Bauhaus]() ||
+| Quelltabs (Jiffys) | [Bauhaus]() ||
 ||[Dehner] (http://www.dehner.de/search/?ms=true&q=Quelltabs) | Tork und Kokos |
 ||[Hornbach](https://www.hornbach.de/shop/Kokos-Quelltabs-50-Stk/5643238/artikel.html) |Kokos 50 Stk, 6,49 Euro|
 ||[OBI]()||
-
-| Anzuchttoepfe (Kokos und Plastik) 
-| [Bauhaus](https://www.bauhaus.info/suche/produkte?q=Anzuchttopf) ||
+| Anzuchttoepfe (Kokos und Plastik) | [Bauhaus](https://www.bauhaus.info/suche/produkte?q=Anzuchttopf) ||
 ||[Dehner] (http://www.dehner.de/search/?ms=true&q=Anzuchttopf) ||
 ||[Hornbach](https://www.hornbach.de/shop/suche/sortiment/anzuchttopf) ||
 ||[OBI]()||
